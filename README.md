@@ -13,6 +13,8 @@ Getting LearnR tutorials to run on mybinder.org
 
 * https://education.rstudio.com/blog/2020/07/learning-learnr/
 
+* https://education.rstudio.com/blog/2020/06/summer-camp-hs/
+
 ## Data science tutorials with learnr and gradethis
 
 * http://www.citizen-statistician.org/2020/08/data-science-tutorials-with-learnr-and-gradethis/
