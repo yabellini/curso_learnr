@@ -17,6 +17,10 @@ Getting LearnR tutorials to run on mybinder.org
 
 * http://www.citizen-statistician.org/2020/08/data-science-tutorials-with-learnr-and-gradethis/
 
+## Curso de mine-cetinkaya-rundel de learnr
+
+* https://mine-cetinkaya-rundel.github.io/teach-r-online
+
 ## Uniendo xarigan con learnr
 
 https://twitter.com/_bcullen/status/1305273775630426112?s=20
