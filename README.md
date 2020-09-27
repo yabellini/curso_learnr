@@ -1,5 +1,7 @@
 # Links del material del taller de learnr de MetaDocencia, LatinR y R-Ladies.
 
+## _Docentes: Yanina Bellini Saibene y Paola Corrales_
+
 * Slides: http://tiny.cc/slides_learnr
 
 ## Correr learnr en binder
