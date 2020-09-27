@@ -44,8 +44,15 @@ https://twitter.com/_bcullen/status/1305273775630426112?s=20
 * https://rstudio.cloud/learn/primers
 * https://github.com/rstudio-education/primers
 
-## Otros paquetes para usar con learnr:
-* gradethis: https://rstudio-education.github.io/gradethis/
+
+## Paquetes y otros recursos para usar con lernr
+
+* Gradethis: https://rstudio-education.github.io/gradethis/
+
+* Parsons: https://github.com/rstudio/parsons
+
+* Mapas conceptuales: https://github.com/rstudio/concept-maps#contributing
+
+* Learner Personas: https://rstudio-education.github.io/learner-personas/
+
 * glosario: https://github.com/carpentries/glosario-r
-
-
