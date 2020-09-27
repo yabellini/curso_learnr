@@ -1,5 +1,6 @@
-# curso_learnr
-Material para el curso de learnr
+# Links del material del taller de learnr de MetaDocencia, LatinR y R-Ladies.
+
+* Slides: http://tiny.cc/slides_learnr
 
 ## Correr learnr en binder
 
