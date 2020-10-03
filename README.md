@@ -8,20 +8,6 @@
 
 * https://yabellini.netlify.app/es/post/tutorialesconlearnr/
 
-## Correr learnr en binder
-
-Getting LearnR tutorials to run on mybinder.org
-
-* http://laderast.github.io/2020/09/15/getting-learnr-tutorials-to-run-on-mybinder-org/
-
-* https://github.com/syoh/learnr-tutorial
-
-## Generar un paquete con learnr
-
-* https://education.rstudio.com/blog/2020/09/delivering-learnr-tutorials-in-a-package/
-
-* https://yabellini.netlify.app/es/post/empaquetandotutoriales/
-
 ## Aprendiendo sobre como funcionar learnr
 
 * https://education.rstudio.com/blog/2020/07/learning-learnr/
@@ -40,7 +26,7 @@ Getting LearnR tutorials to run on mybinder.org
 
 https://twitter.com/_bcullen/status/1305273775630426112?s=20
 
-## ejemplos de tutoriales learnr como paquetes
+## Ejemplos de tutoriales learnr como paquetes
 
 * https://github.com/llendway/DS112tutorials
 
@@ -50,12 +36,26 @@ https://twitter.com/_bcullen/status/1305273775630426112?s=20
 
 * https://github.com/yabellini/tutorialgRaficosFN
 
-## info desde RStudio Education
+## Info desde RStudio Education
 
 * sitio del paquete: https://rstudio.github.io/learnr/
 * github del paquete: https://github.com/rstudio/learnr
 * https://rstudio.cloud/learn/primers
 * https://github.com/rstudio-education/primers
+
+## Correr learnr en binder
+
+Getting LearnR tutorials to run on mybinder.org
+
+* http://laderast.github.io/2020/09/15/getting-learnr-tutorials-to-run-on-mybinder-org/
+
+* https://github.com/syoh/learnr-tutorial
+
+## Generar un paquete con learnr
+
+* https://education.rstudio.com/blog/2020/09/delivering-learnr-tutorials-in-a-package/
+
+* https://yabellini.netlify.app/es/post/empaquetandotutoriales/
 
 
 ## Paquetes y otros recursos para usar con lernr
