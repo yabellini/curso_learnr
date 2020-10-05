@@ -51,6 +51,7 @@ Getting LearnR tutorials to run on mybinder.org
 
 * https://github.com/syoh/learnr-tutorial
 
+
 ## Generar un paquete con learnr
 
 * https://education.rstudio.com/blog/2020/09/delivering-learnr-tutorials-in-a-package/
@@ -69,3 +70,7 @@ Getting LearnR tutorials to run on mybinder.org
 * Learner Personas: https://rstudio-education.github.io/learner-personas/
 
 * glosario: https://github.com/carpentries/glosario-r
+
+## Otros post relacionados
+
+* https://damien-datasci-blog.netlify.app/post/how-to-make-an-interactive-tutorial-to-teach-r-an-overview/
