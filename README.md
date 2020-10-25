@@ -65,6 +65,8 @@ Getting LearnR tutorials to run on mybinder.org
 
 * Parsons: https://github.com/rstudio/parsons
 
+* Sortable: https://github.com/rstudio/sortable
+
 * Mapas conceptuales: https://github.com/rstudio/concept-maps#contributing
 
 * Learner Personas: https://rstudio-education.github.io/learner-personas/
