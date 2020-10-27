@@ -76,3 +76,5 @@ Getting LearnR tutorials to run on mybinder.org
 ## Otros post relacionados
 
 * https://damien-datasci-blog.netlify.app/post/how-to-make-an-interactive-tutorial-to-teach-r-an-overview/
+
+* Identidad visual: https://github.com/Athanasiamo/uiothemes
