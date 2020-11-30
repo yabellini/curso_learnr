@@ -73,6 +73,10 @@ Getting LearnR tutorials to run on mybinder.org
 
 * glosario: https://github.com/carpentries/glosario-r
 
+* Flash Cards: https://github.com/henningsway/r2anki
+
+* Flash Cards: https://github.com/jienagu/flashCard
+
 ## Otros post relacionados
 
 * https://damien-datasci-blog.netlify.app/post/how-to-make-an-interactive-tutorial-to-teach-r-an-overview/
