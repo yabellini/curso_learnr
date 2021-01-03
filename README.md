@@ -77,6 +77,10 @@ Getting LearnR tutorials to run on mybinder.org
 
 * Flash Cards: https://github.com/jienagu/flashCard
 
+## Tutoriales como Shiny Apps
+
+* https://clif.shinyapps.io/01-Replacement-es/
+
 ## Otros post relacionados
 
 * https://damien-datasci-blog.netlify.app/post/how-to-make-an-interactive-tutorial-to-teach-r-an-overview/
