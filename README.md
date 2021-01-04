@@ -81,6 +81,14 @@ Getting LearnR tutorials to run on mybinder.org
 
 * https://clif.shinyapps.io/01-Replacement-es/
 
+## Más tutoriales (como partes de libros o cursos)
+
+* https://mixtape.scunning.com/teaching-resources.html
+
+* https://libguides.wustl.edu/R/introduction
+
+* https://athanasiamo.github.io/tidyquintro/
+
 ## Otros post relacionados
 
 * https://damien-datasci-blog.netlify.app/post/how-to-make-an-interactive-tutorial-to-teach-r-an-overview/
