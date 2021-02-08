@@ -81,6 +81,8 @@ Getting LearnR tutorials to run on mybinder.org
 
 * https://clif.shinyapps.io/01-Replacement-es/
 
+* https://github.com/allisonhorst/dplyr-learnr
+
 ## Más tutoriales (como partes de libros o cursos)
 
 * https://mixtape.scunning.com/teaching-resources.html
