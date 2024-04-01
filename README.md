@@ -1,8 +1,8 @@
-# Links del material del taller de learnr de MetaDocencia, LatinR y R-Ladies.
+# Links del material del taller de learnr dictado en varias comunidades y espacios diferentes.
 
 ## _Docentes: Yanina Bellini Saibene y Paola Corrales_
 
-* Slides: http://tiny.cc/slides_learnr
+* [Slides](https://docs.google.com/presentation/d/1JsN6zKY6SGlCqnFjCqQiThMQ2UrnxT9Hb-1HW_fP_Cc/edit?usp=sharing)
 
 ## Haciendo un tutorial
 
